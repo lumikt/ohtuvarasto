@@ -1,6 +1,6 @@
 import unittest
 from varasto import Varasto
-#Added comment for filechange
+
 
 class TestVarasto(unittest.TestCase):
     def setUp(self):
