@@ -1,5 +1,5 @@
 from varasto import Varasto
-
+#Smol change
 def alustus(mehua, olutta):
     print("Luonnin jälkeen:")
     print(f"Mehuvarasto: {mehua}")
